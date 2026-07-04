@@ -1,0 +1,3 @@
+safetyinfo=google/Google/komodo/komodo_beta/Pixel 9 Pro XL/CP21.260330.011/2026-05-05/32/17
+
+safetyfing=google/komodo_beta/komodo:17/CP21.260330.011/15499021:user/release-keys
